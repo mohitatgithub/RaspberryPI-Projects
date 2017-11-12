@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python _
 import sys
 import time
 #from sense_hat import SenseHat
