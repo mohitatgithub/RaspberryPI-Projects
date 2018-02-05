@@ -1,1 +1,1 @@
-Collection of my mini projects using Raspberry Pi & Sense Hat
+Collection of my simple & fun projects using Raspberry Pi & Sense Hat
