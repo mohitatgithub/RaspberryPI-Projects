@@ -2,8 +2,8 @@
 
 import time
 import datetime
-from sense_emu import SenseHat
-#from sense_hat import SenseHat
+#from sense_emu import SenseHat
+from sense_hat import SenseHat
 
 sense = SenseHat()
 
