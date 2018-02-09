@@ -1,0 +1,2 @@
+#crontab update to collect sensor readings every 10 minutes:
+*/10 * * * * /home/mohit/anaconda3/bin/python /media/newhd/Raspberry_Pi/SenseHatProjects/Atmospheric_Data_Collection/atmospheric_data_collection.py
