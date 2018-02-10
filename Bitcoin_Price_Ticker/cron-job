@@ -1,0 +1,2 @@
+#crontab update to collect sensor readings every 60 minutes:
+/60 * * * * /usr/bin/python /path/bitcoin_price_ticker.py
